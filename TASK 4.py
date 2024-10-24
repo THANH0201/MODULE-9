@@ -5,7 +5,7 @@ from tabulate import tabulate
 # Now we will program a car race. The travelled distance of a new car is initialized as zero.
 # Each car is made to drive for one hour. This is done with the drive method.
 # The race continues until one of the cars has advanced at least 10,000 kilometers.
-# Finally, the properties of each car are printed out formatted into a clear table.
+# Finally, the properties of each car are printed out formatted into a clear tablE.
 
 
 cars = []
